@@ -15,7 +15,7 @@
 
 - React, YouTube API, JavaScript, HTML, CSS, Axios
 
-Quick Start
+## Quick Start
 
 1. Download zip file or clone the repository on your local machine, and open it up in your code editor.
 2. Open terminal and run **npm start** on the root folder.
